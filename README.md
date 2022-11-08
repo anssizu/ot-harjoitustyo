@@ -1,3 +1,7 @@
-# Readme
+# Ohjelmistotekniikka, harjoitustyö
 
-Esimerkkiteksti **lihavoidulla** ja *kursivoidulla* sisällöllä.
+## Tehtävät
+
+### Viikko 1
+[komentorivi.txt](https://github.com/anssizu/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
+[gitlog.txt](https://github.com/anssizu/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
