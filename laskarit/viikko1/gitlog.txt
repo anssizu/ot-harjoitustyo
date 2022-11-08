@@ -1,0 +1,114 @@
+commit 2592669190d4a8996dcc5a3956b64ebccfccae6c
+Author: Anselmus Heino <anssizu@users.noreply.github.com>
+Date:   Tue Nov 8 20:14:57 2022 +0200
+
+    sekalaisia muutoksia
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ tiedostoja/file3             | 1 +
+ 3 files changed, 1 insertion(+)
+
+commit a7a520d638819004920c36b681f1638d924791df
+Author: Anselmus Heino <anssizu@users.noreply.github.com>
+Date:   Tue Nov 8 20:13:12 2022 +0200
+
+    kolme tiedostoa
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 81c9c617f9e8d2582b2b5415f76e51add53b2f22
+Author: Anselmus Heino <anssizu@users.noreply.github.com>
+Date:   Tue Nov 8 20:09:34 2022 +0200
+
+    eka.txt sekä kolmas.txt muutoksia
+
+ eka.txt    | 9 +--------
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 9 deletions(-)
+
+commit 5dfcf2d9ae5e84cca3ce4de102ecc72cdc86d7c6
+Author: Anselmus Heino <anssizu@users.noreply.github.com>
+Date:   Tue Nov 8 20:08:06 2022 +0200
+
+    tiedosto.txt uudelleennimentä
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 176ef17d0f1d71468d7b5e2dc9b2af04e91cbc39
+Author: Anselmus Heino <anssizu@users.noreply.github.com>
+Date:   Tue Nov 8 20:07:05 2022 +0200
+
+    toinen.txt kadotus
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 72d7096e0cb67712729e47d94662a0e3c122d5a8
+Author: Anselmus Heino <anssizu@users.noreply.github.com>
+Date:   Tue Nov 8 20:05:28 2022 +0200
+
+    tiedosto.txt muutos
+
+ tiedosto.txt | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+commit 3252825315a7fdae527e051412c14bfcb23de657
+Author: Anselmus Heino <anssizu@users.noreply.github.com>
+Date:   Tue Nov 8 20:04:40 2022 +0200
+
+    tiedosto.txt:hen sisältöä
+
+ tiedosto.txt | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+commit ab77c4f80ef84c8ac680f9e70edd15b644ef87ad
+Author: Anselmus Heino <anssizu@users.noreply.github.com>
+Date:   Tue Nov 8 19:57:31 2022 +0200
+
+    taas muutoksia
+
+ stuff/dataa.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 6202b4876c1e5c241fd92458d72e7f906e36fc3f
+Author: Anselmus Heino <anssizu@users.noreply.github.com>
+Date:   Tue Nov 8 19:56:58 2022 +0200
+
+    muutoksia
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 43b570a473e6d8058f33d081733c51322442307b
+Author: Anselmus Heino <anssizu@users.noreply.github.com>
+Date:   Tue Nov 8 19:55:58 2022 +0200
+
+    kolmas.txt
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 1dd31c920ab6fbbbb453d035870870a7846b60cd
+Author: Anselmus Heino <anssizu@users.noreply.github.com>
+Date:   Tue Nov 8 19:54:23 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 1ca6c250a51f2636d48717ca89678c315e4916a5
+Author: Anselmus Heino <anssizu@users.noreply.github.com>
+Date:   Tue Nov 8 19:52:31 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
