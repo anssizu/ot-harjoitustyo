@@ -10,4 +10,5 @@
 
 ### Viikko 2
 [ohjelman määrittelydokumentti](https://github.com/anssizu/ot-harjoitustyo/blob/master/maarittelydokumentti.md)
+
 [työaikakirja](https://github.com/anssizu/ot-harjoitustyo/blob/master/tyoaikakirja.md)
