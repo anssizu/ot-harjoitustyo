@@ -25,4 +25,4 @@ Ohjelman täytynee tehdä jonkinasteista arvauspohjaista täydentämistä kuvate
 
   
 
-Ohjelman testauksen ja demonstroinnin helppouden kannalta ohjelmalla täytyy todennäköisesti olla sisäänrakennettu keino tehdä aikaharppauksia.
+Ohjelman testauksen ja demonstroinnin helppouden kannalta ohjelmalla täytyy todennäköisesti olla sisäänrakennettu keino tehdä aikaharppauksia. Tämän toiminnallisuuden kannalta kehittäjälle/testaajalle kannattaa kenties määritellä erillinen käyttäjäroolinsa.
