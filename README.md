@@ -1,19 +1,8 @@
 # Ohjelmistotekniikka, harjoitustyö
 
-## Tehtävät
+## Fitness Tracker, dokumentaatio
+[ohjelman määrittelydokumentti](https://github.com/anssizu/ot-harjoitustyo/blob/master/dokumentaatio/maarittelydokumentti.md)
 
-### Viikko 1
-[komentorivi.txt](https://github.com/anssizu/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
+[työaikakirja](https://github.com/anssizu/ot-harjoitustyo/blob/master/dokumentaatio/tyoaikakirja.md)
 
-[gitlog.txt](https://github.com/anssizu/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
-
-
-### Viikko 2
-[ohjelman määrittelydokumentti](https://github.com/anssizu/ot-harjoitustyo/blob/master/maarittelydokumentti.md)
-
-[työaikakirja](https://github.com/anssizu/ot-harjoitustyo/blob/master/tyoaikakirja.md)
-
-
-# Lopullisen sovellusprojektin repositorio
-
-## [Fitness Tracker (GitHub)](https://github.com/anssizu/FitnessTracker)
+[changelog](https://github.com/anssizu/ot-harjoitustyo/blob/master/dokumentaatio/changelog.md)
