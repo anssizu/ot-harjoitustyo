@@ -1,5 +1,7 @@
 # Ohjelmistotekniikka, harjoitustyö
 
+(väliaikainen huomio tarkastajalle: viikon 3 harjoitustyöt (=1 piste) jäi tekemättä)
+
 ## Fitness Tracker, dokumentaatio
 [ohjelman määrittelydokumentti](https://github.com/anssizu/ot-harjoitustyo/blob/master/dokumentaatio/maarittelydokumentti.md)
 
