@@ -12,3 +12,8 @@
 [ohjelman määrittelydokumentti](https://github.com/anssizu/ot-harjoitustyo/blob/master/maarittelydokumentti.md)
 
 [työaikakirja](https://github.com/anssizu/ot-harjoitustyo/blob/master/tyoaikakirja.md)
+
+
+# Lopullisen sovellusprojektin repositorio
+
+## [Fitness Tracker (GitHub)](https://github.com/anssizu/FitnessTracker)
