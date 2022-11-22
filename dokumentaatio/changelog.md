@@ -1,6 +1,6 @@
-#Changelog
+# Changelog
 
-##Viikko 3
+## Viikko 3
 
 Fitness Trackerin perustukset on pystytetty. JavaFX ikkuna tarjoaa primitiivisen keinon summata liikuntakaloreita.
 
